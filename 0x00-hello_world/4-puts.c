@@ -1,0 +1,11 @@
+#!/bin/bash
+#include <stdio.h>
+/**
+ * main - Print out a string 
+ *
+ * Return: 0 (success)
+ */
+int main(void){
+	puts("\"Programming is like building a multilingual puzzle")
+Return (0);
+}
