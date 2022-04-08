@@ -1,6 +1,5 @@
 #include <stdio.h>
 /**
- *
  * main - Entry
  *
  * Return: 0 after a program
